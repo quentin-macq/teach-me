@@ -13,11 +13,7 @@ Créer un fichier .env grâce au fichier .env.example
 ```
 
 ```
-npm install
-```
-
-```
-composer install
+npm install && composer install
 ```
 
 ```
@@ -25,9 +21,8 @@ npm run watch
 ```
 
 ```
-php artisan migrate
+php artisan migrate db:seed
 ```
-
 
 ```
 php artisan serve
