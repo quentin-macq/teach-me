@@ -9,7 +9,7 @@ _Technologies utilisées_ : **Laravel, Jetstream (avec Inertia.js), Vue.js, Boot
 
 ## Lancer le projet
 ```
-Créer un fichier .env avec la configuration nécessaire
+Créer un fichier .env grâce au fichier .env.example
 ```
 
 ```
