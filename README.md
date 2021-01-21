@@ -1,3 +1,39 @@
+# TeachMe
+
+Création d'un site de cours en ligne.
+
+Projet scolaire réalisé en groupe de quatre personnes en Septembre 2020 (3 semaines).
+
+_Technologies utilisées_ : **Laravel, Jetstream (avec Inertia.js), Vue.js, Bootstrap, PHP, JavaScript, HTML/CSS.**
+
+
+## Lancer le projet
+```
+Créer un fichier .env avec la configuration nécessaire
+```
+
+```
+npm install
+```
+
+```
+composer install
+```
+
+```
+npm run watch
+```
+
+```
+php artisan migrate
+```
+
+
+```
+php artisan serve
+```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
