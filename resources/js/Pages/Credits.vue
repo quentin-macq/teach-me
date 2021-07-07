@@ -18,8 +18,8 @@
                             href="https://www.mymentor.fr/" target="_blank"> mymentor.</a></p>
                     <br>
                     <h4>Nos choix</h4>
-                    <p><b><u>Langages</u></b> : PHP 8, JavaScript</p>
-                    <p><b><u>Frameworks</u></b> : Laravel 8 (Jetstream avec Inertia.js), Vue.js, Bootstrap, Tailwind CSS
+                    <p><b><u>Langages</u></b> : PHP, JavaScript</p>
+                    <p><b><u>Frameworks</u></b> : Laravel (Jetstream avec Inertia.js), Vue.js, Bootstrap, Tailwind CSS
                     </p>
                     <br>
 
