@@ -1,7 +1,6 @@
 require('./bootstrap');
 
 import Vue from 'vue';
-
 import {InertiaApp} from '@inertiajs/inertia-vue';
 import {InertiaForm} from 'laravel-jetstream';
 import PortalVue from 'portal-vue';
@@ -11,7 +10,6 @@ import TextHighlight from 'vue-text-highlight';
 import VCalendar from 'v-calendar';
 
 Vue.component('text-highlight', TextHighlight);
-
 
 Vue.use(InertiaApp);
 Vue.use(InertiaForm);
@@ -27,8 +25,6 @@ Vue.filter('formatDate', function (value) {
         return moment(String(value)).format('DD/MM/YYYY');
     }
 });
-
-//Vue.prototype.$route = (...args) => route(...args).url();
 
 const app = document.getElementById('app');
 

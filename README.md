@@ -17,15 +17,27 @@ npm install && composer install
 ```
 
 ```
-npm run watch
-```
-
-```
 php artisan key:generate && php artisan migrate --seed
 ```
 
 ```
+npm run watch
+```
+
+```
 php artisan serve
+```
+
+Edit this section in your .env file with your email information
+```php
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=null
+MAIL_PASSWORD=null
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS=null
+MAIL_FROM_NAME="${APP_NAME}"
 ```
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
