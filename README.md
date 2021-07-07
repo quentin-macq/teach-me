@@ -4,7 +4,7 @@ Création d'un site de cours en ligne.
 
 Projet scolaire réalisé en groupe de quatre personnes en Septembre 2020 (3 semaines).
 
-_Technologies utilisées_ : **Laravel 8, Jetstream (avec Inertia.js), Vue.js 2, Bootstrap, PHP 8, JavaScript, HTML/CSS.**
+_Technologies utilisées_ : **Laravel, Jetstream (avec Inertia.js), Vue.js, Bootstrap, PHP, JavaScript, HTML/CSS.**
 
 
 ## Lancer le projet
