@@ -29,7 +29,7 @@ php artisan serve
 ```
 
 Edit this section in your .env file with your email information
-```
+```php
 MAIL_MAILER=smtp
 MAIL_HOST=smtp.mailtrap.io
 MAIL_PORT=2525
